@@ -38,7 +38,6 @@ Welcome to the ** Chapter 01 ** repository! This project is designed to help you
    - **Examples:**
      
     - ![ex4](https://github.com/user-attachments/assets/a7d26d9d-db5d-4d62-91e1-81b174a0dc8f)
-     -----------------------------------------------------------------------------------------
      
     - ![ex44](https://github.com/user-attachments/assets/1f22e3b4-b9e8-47ce-927d-2c89b069b697)
   
@@ -54,7 +53,6 @@ Welcome to the ** Chapter 01 ** repository! This project is designed to help you
   - **Examples**
    
      - ![EX5](https://github.com/user-attachments/assets/a86fb11d-2ca0-4f4b-ade9-1d48c5d1beaa)
-       --------------------------------------------------------------------------------------
        
      - ![EX6](https://github.com/user-attachments/assets/3dad209b-5dec-4525-b0e0-567d47abc91b)
  
