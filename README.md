@@ -45,9 +45,11 @@ Welcome to the ** Chapter 01 ** repository! This project is designed to help you
 # 5- **Permutations 🔄** 
 
   - **A**
+    
     ![prem](https://github.com/user-attachments/assets/b76e03df-8ed8-4e74-9f89-e187f9d65448)
    
   - **B**
+    
      ![prem2](https://github.com/user-attachments/assets/f8944117-9980-4604-819b-c2666949597c)
    
   - **Examples**
@@ -57,6 +59,7 @@ Welcome to the ** Chapter 01 ** repository! This project is designed to help you
      - ![EX6](https://github.com/user-attachments/assets/3dad209b-5dec-4525-b0e0-567d47abc91b)
  
  - **C**
+   
     ![PREM3](https://github.com/user-attachments/assets/3728697e-f983-4d30-993d-f773af55b3f8)
  
  - **Examples**
