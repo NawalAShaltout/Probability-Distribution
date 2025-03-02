@@ -36,19 +36,19 @@ Welcome to the ** Chapter 01 ** repository! This project is designed to help you
   - Factorials are used to count the number of ways to arrange a set of distinct items.
     
    - **Examples:**
-     
-    - ![ex4](https://github.com/user-attachments/assets/a7d26d9d-db5d-4d62-91e1-81b174a0dc8f)
-     
-    - ![ex44](https://github.com/user-attachments/assets/1f22e3b4-b9e8-47ce-927d-2c89b069b697)
-  
+
+    - ![ex4](https://github.com/user-attachments/assets/a92e14ec-9c3d-44ae-8ef3-fe5cc3f16aa9)
+    
+    - ![ex44](https://github.com/user-attachments/assets/25d69103-38d4-4f8e-bad2-31999143320b)
+    
 
 # 5- **Permutations 🔄** 
 
-  - **A**
+  - **Rule A** 
     
     ![prem](https://github.com/user-attachments/assets/b76e03df-8ed8-4e74-9f89-e187f9d65448)
    
-  - **B**
+  - **Rule B**
     
      ![prem2](https://github.com/user-attachments/assets/f8944117-9980-4604-819b-c2666949597c)
    
@@ -58,7 +58,7 @@ Welcome to the ** Chapter 01 ** repository! This project is designed to help you
        
      - ![EX6](https://github.com/user-attachments/assets/3dad209b-5dec-4525-b0e0-567d47abc91b)
  
- - **C**
+ - **Rule C**
    
     ![PREM3](https://github.com/user-attachments/assets/3728697e-f983-4d30-993d-f773af55b3f8)
  
