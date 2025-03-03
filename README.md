@@ -37,10 +37,6 @@ Welcome to the ** Chapter 01 ** repository! This project is designed to help you
     
    - **Examples:**
 
-    - ![ex4](https://github.com/user-attachments/assets/a92e14ec-9c3d-44ae-8ef3-fe5cc3f16aa9)
-    
-    - ![ex44](https://github.com/user-attachments/assets/25d69103-38d4-4f8e-bad2-31999143320b)
-    
 
 # 5- **Permutations 🔄** 
 
