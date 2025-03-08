@@ -42,7 +42,7 @@
   - Probability measures the likelihood of an event occurring. 
   - It is calculated by dividing the number of favorable outcomes **(E)** by the total number of possible outcomes **(S)**:
 
-         P(A) = \frac{\text{Number of favorable outcomes}}{\text{Total number of possible outcomes}}
+         $$P(A) = \frac{\text{Number of favorable outcomes}}{\text{Total number of possible outcomes}}$$
 
     
 
