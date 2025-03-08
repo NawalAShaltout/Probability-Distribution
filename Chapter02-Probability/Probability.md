@@ -42,7 +42,7 @@
   - Probability measures the likelihood of an event occurring. 
   - It is calculated by dividing the number of favorable outcomes **(E)** by the total number of possible outcomes **(S)**:
 
-        \[ P(E) = \frac{|E|}{|S|} \]
+ $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
     
 
