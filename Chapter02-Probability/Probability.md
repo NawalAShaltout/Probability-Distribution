@@ -36,7 +36,14 @@
           
           B = {2, 4, 6}
 
+---
 
+### 4. 📊 Probability of Event (P(A))
+  - Probability measures the likelihood of an event occurring. 
+  - It is calculated by dividing the number of favorable outcomes **(E)** by the total number of possible outcomes **(S)**:
+
+          \[ P(E) = \frac{|E|}{|S|} \]
+    
 
 
   
