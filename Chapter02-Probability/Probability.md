@@ -1,13 +1,14 @@
 # 🎲 Fundamental Concepts of Probability 🎲
  - This section provides an overview of the fundamental concepts of probability, including sample space, events, and various probability relations.
 
-## Content 
+---
+## 📚 Content   
+  1- [Sample Space](##1.SampleSpace(S))   
+  2- [Events](#introduction)   
+  3- [Probability theory](#introduction)   
+  4- [Probability Rules](#introduction)    
+  6- [Examples](#introduction)   
 
-  1- Sample Space 
-  2- Events 
-  3- Probability theory
-  4- Probability Rules 
-  6- Examples 
 ---
 ### 1. 🌐 Sample Space (S)
   - The sample space is the set of all possible outcomes of an experiment.
@@ -103,11 +104,84 @@ $$P(E) = \frac{|E|}{|S|}$$
    **5. Complement Rule** 
      - The probability of an event $$\( A \)$$ not occurring (complement of \( A \)) is:  
         - $$\[P(A^c) = 1 - P(A)\]$$
+
+  ---
+
+  ### Rules Example01 : 
+  - Given the universal set and subsets:
+    - Universal Set (\( S \)): {1, 2, 3, 4, 5, 6}
+    - Subset \( A \): {1, 2}
+    - Subset \( B \): {2, 4, 5}
+    - Subset \( C \): {1, 5, 6}
+ - Find the following:
+    - 1. Complement of **A**
+         - $$\[P(A^c) = 1 - P(A)\ = 1 - \frac{2}{6}]$$
+
+ ---
+ ### **Example 02**
+   - A random sample of 500 people was taken from the 2010 United States Census. Their marital status and race were recorded in the following contingency table using the census labels. A person is randomly chosen from the census data. Find the following.
+
+| Marital Status | American Indian | Black | Asian | White | Two Major Races | Total |
+|----------------|------------------|-------|-------|-------|-----------------|-------|
+| Divorced       | 0                | 6     | 1     | 30    | 1               | 38    |
+| Married        | 1                | 25    | 23    | 156   | 4               | 209   |
+| Single         | 2                | 33    | 21    | 155   | 11              | 222   |
+| Widowed        | 0                | 7     | 2     | 22    | 0               | 31    |
+| Total          | 3                | 71    | 47    | 363   | 16              | 500   
   
-       
-    
+
+   - **a) $$\( P(\text{Single} \cap \text{American Indian}) \)$$ ?**
+     
+       -The probability that a person is both Single and American Indian is calculated as:
+     
+       - $$\[ P(\text{Single} \cap \text{American Indian}) = \frac{\text{Number of Single and American Indian}}{\text{Total number of people}} = \frac{2}{500} = 0.004 \]$$
+
+  - **b) $$\( P(\text{Single} \cup \text{American Indian}) \)$$**
+
+      - The probability that a person is either Single or American Indian (or both) is calculated using the union formula:
+   
+      - $$\[ P(\text{Single} \cup \text{American Indian}) = P(\text{Single}) + P(\text{American Indian}) - P(\text{Single} \cap \text{American Indian}) \]$$
+   
+      - $$\[ P(\text{Single}) = \frac{222}{500} = 0.444 \]$$
+   
+      - $$\[ P(\text{American Indian}) = \frac{3}{500} = 0.006 \]$$
+   
+      - $$\[ P(\text{Single} \cup \text{American Indian}) = 0.444 + 0.006 - 0.004 = 0.446 \]$$
+   
+ - **c) Probability that the person is Asian or Married?**
+   
+     - The probability that a person is either Asian or Married is calculated using the union formula:
   
+     - $$\[ P(\text{Asian} \cup \text{Married}) = P(\text{Asian}) + P(\text{Married}) - P(\text{Asian} \cap \text{Married}) \]$$
   
+     - $$\[ P(\text{Asian}) = \frac{47}{500} = 0.094 \]$$
+  
+     - $$\[ P(\text{Married}) = \frac{209}{500} = 0.418 \]$$
+  
+     - $$\[ P(\text{Asian} \cap \text{Married}) = \frac{23}{500} = 0.046 \]$$
+  
+     - $$\[ P(\text{Asian} \cup \text{Married}) = 0.094 + 0.418 - 0.046 = 0.466 \]$$
+  
+ - **d) $$\(P(\text{Single} \cap \text{Married})\)$$**
+   
+     - The probability that a person is both Single and Married is 0 since this is impossible.
+     - $$\[ P(\text{Single} \cap \text{Married}) = 0 \]$$
+
+ - **e) $$\( P(\text{Single} \cup \text{Married}) \)$$**
+   
+     - The probability that a person is either Single or Married is calculated using the union formula:
+  
+     - $$\[ P(\text{Single} \cup \text{Married}) = P(\text{Single}) + P(\text{Married}) - P(\text{Single} \cap \text{Married}) \]$$
+  
+     - $$\( P(\text{Single} \cap \text{Married}) = 0 \)$$
+  
+     - $$\[ P(\text{Single}) = \frac{222}{500} = 0.444 \]$$
+  
+     - $$\[ P(\text{Married}) = \frac{209}{500} = 0.418 \]$$
+  
+     - $$\[ P(\text{Single} \cup \text{Married}) = 0.444 + 0.418 = 0.862 \]$$
+  
+  ---
      
    
   
